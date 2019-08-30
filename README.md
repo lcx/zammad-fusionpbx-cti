@@ -36,4 +36,4 @@ action export original_call_id=${sip_call_id}
 * Cristian Livadaru - added Readme and config file
 
 ## Acknowledgments
-This is basically just copied from this blog post (Zammad Ticketing System Integration)[https://www.pbxforums.com/threads/zammad-ticketing-system-integration.3123/] created by DigitalDaz
+This is basically just copied from this blog post [Zammad Ticketing System Integration](https://www.pbxforums.com/threads/zammad-ticketing-system-integration.3123/) created by DigitalDaz
