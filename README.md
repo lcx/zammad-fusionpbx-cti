@@ -30,6 +30,10 @@ action export nolocal:execute_on_answer=lua zam_answercall.lua
 action export original_to=${sip_req_user}
 action export original_call_id=${sip_call_id}
 ```
+should look something like this 
+
+![Dialplan](https://raw.githubusercontent.com/lcx/zammad-fusionpbx-cti/master/inboundroutezammad.jpg)
+
 ## Authors
 
 * DigitalDaz - creator
